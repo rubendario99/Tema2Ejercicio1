@@ -1,0 +1,7 @@
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\obj\Debug\Tema2Ejercicio1.csprojAssemblyReference.cache
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\obj\Debug\Tema2Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\bin\Debug\Tema2Ejercicio1.exe.config
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\bin\Debug\Tema2Ejercicio1.exe
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\bin\Debug\Tema2Ejercicio1.pdb
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\obj\Debug\Tema2Ejercicio1.exe
+C:\Users\ruchi\source\repos\Tema2Ejercicio1\Tema2Ejercicio1\obj\Debug\Tema2Ejercicio1.pdb
